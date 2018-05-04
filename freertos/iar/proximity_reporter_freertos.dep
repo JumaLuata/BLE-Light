@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3955488309</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\ble_sig_defines.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\att_errors.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\config\ble_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\att_types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\ble_constants.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\ble_general.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\controller\interface\controller_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\config\ble_globals.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\ble_host_tasks.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\hci_transport\interface\hci_transport.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\hci_transport\source\hcit_serial_interface.c</file>
+            <file>$PROJ_DIR$\debug\obj\GenericList.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\debug\obj\timers.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_adc16.pbi</file>
+            <file>$PROJ_DIR$\debug\proximity_reporter_frdmkw41z.bin</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\debug\obj\NV_FsciCommands.o</file>
+            <file>$PROJ_DIR$\debug\obj\device_info_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ifr_radio.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_debug_console.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\debug\obj\ble_init.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\hcit_serial_interface.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\CMSIS\Include\core_cm0plus.h</file>
+            <file>$PROJ_DIR$\debug\obj\ble_controller_task.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\event_groups.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\CMSIS\Include\core_cmInstr.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_common.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\clock_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\gatt_database.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\immediate_alert_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_tickless_systick.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p5_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_trim.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_tpm.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\debug\obj\pin_mux.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\link_loss_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_conn_manager.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p3_h_0p5_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\TimersManager.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_pmc.o</file>
+            <file>$PROJ_DIR$\debug\obj\RNG.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_1p0_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_rtc.o</file>
+            <file>$PROJ_DIR$\debug\obj\timers.o</file>
+            <file>$PROJ_DIR$\debug\obj\MWS.o</file>
+            <file>$PROJ_DIR$\debug\obj\ifr_radio.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_ant_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\port.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_msk_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p7_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\croutine.o</file>
+            <file>$PROJ_DIR$\debug\obj\Flash_Adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_flash.o</file>
+            <file>$PROJ_DIR$\debug\obj\SecLib.o</file>
+            <file>$PROJ_DIR$\debug\obj\immediate_alert_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\ble_controller_task.o</file>
+            <file>$PROJ_DIR$\debug\obj\GPIO_Adapter.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\MKW41Z4_features.h</file>
+            <file>$PROJ_DIR$\debug\obj\ModuleInfo.o</file>
+            <file>$PROJ_DIR$\debug\obj\LED.o</file>
+            <file>$PROJ_DIR$\debug\obj\ApplMain.o</file>
+            <file>$PROJ_DIR$\debug\proximity_reporter_freertos.out</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p7_h_0p5_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_tpm.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+            <file>$PROJ_DIR$\debug\obj\dbg_ram_capture.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\hid_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\pin_mux.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_ble_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\board.o</file>
+            <file>$PROJ_DIR$\debug\obj\ble_globals.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\hid\hid_interface.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_gpio.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\TMR_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_dspi.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_common.o</file>
+            <file>$PROJ_DIR$\debug\obj\link_loss_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_mode_datarate_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\ModuleInfo.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_i2c.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_rtc.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_ant_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_ltc.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\gpio_pins.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_i2c.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_common_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\tx_power_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_dspi.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_llwu.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\hid\hid_service.c</file>
+            <file>$PROJ_DIR$\debug\obj\heap_4.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_adc16.o</file>
+            <file>$PROJ_DIR$\debug\obj\battery_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\hid_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_globals.o</file>
+            <file>$PROJ_DIR$\debug\obj\list.o</file>
+            <file>$PROJ_DIR$\debug\obj\gatt_database.o</file>
+            <file>$PROJ_DIR$\debug\obj\proximity_reporter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_host_tasks.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\app_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\battery_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\tx_power_service.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_llwu.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_lptmr.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Flash_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\port.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\queue.o</file>
+            <file>$PROJ_DIR$\debug\obj\tasks.o</file>
+            <file>$PROJ_DIR$\debug\obj\Reset.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p32_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\Panic.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_tickless_systick.o</file>
+            <file>$PROJ_DIR$\debug\obj\list.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\tasks.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_ble_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\proximity_reporter.o</file>
+            <file>$PROJ_DIR$\debug\obj\croutine.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FunctionLib.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\board.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_zgbe_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_trng.o</file>
+            <file>$PROJ_DIR$\debug\obj\heap_4.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ApplMain.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_conn_manager.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_smc.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_zgbe_config.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_os_abstraction_free_rtos.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\system_MKW41Z4.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\proximity_reporter\freertos\app_preinclude.h</file>
+            <file>$PROJ_DIR$\debug\obj\startup_MKW41Z4.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_trng.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\MWS.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\queue.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\MemManager.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\MKW41Z4.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_pmc.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\proximity_reporter_freertos.pbd</file>
+            <file>$PROJ_DIR$\debug\obj\Keyboard.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_smc.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\gpio_pins.o</file>
+            <file>$PROJ_DIR$\debug\obj\clock_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_msk_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_clock.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p32_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_flash.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\NV_FsciCommands.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_lpuart.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\RNG.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\DCDC.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p3_h_0p5_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_host_tasks.o</file>
+            <file>$PROJ_DIR$\debug\obj\portasm.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\link_loss_service.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\l2ca_types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\tx_power_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gap_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\battery\battery_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\device_info\device_info_service.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\immediate_alert_interface.h</file>
+            <file>$PROJ_DIR$\..\board.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gap_types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\hci_types.h</file>
+            <file>$PROJ_DIR$\..\board.h</file>
+            <file>$PROJ_DIR$\..\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\immediate_alert_service.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\link_loss_interface.h</file>
+            <file>$PROJ_DIR$\..\clock_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\ble_utils.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_server_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_database.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\tx_power_service.c</file>
+            <file>$PROJ_DIR$\..\gpio_pins.c</file>
+            <file>$PROJ_DIR$\..\gpio_pins.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_db_app_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\device_info\device_info_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\gatt_client_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\l2ca_cb_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\interface\vendor_debug_commands.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\battery\battery_service.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_smc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_flash.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_dspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_llwu.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lptmr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_ltc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lpuart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_ltc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lptmr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_pmc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_port.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_adc16.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lpuart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_llwu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_adc16.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_pmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_dspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TimersManagerInternal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Panic\Interface\Panic.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Panic\Source\Panic.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Interface\SerialManager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Source\UART_Adapter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\OSAbstraction\Interface\fsl_os_abstraction.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SecLib\SecLib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TimersManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TMR_Adapter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\dbg_ram_capture.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Source\NV_FsciCommands.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_ant_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_common_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_ble_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\RNG\Interface\RNG_Interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p3_h_0p5_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p5_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Source\SerialManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\OSAbstraction\Source\fsl_os_abstraction_free_rtos.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\OSAbstraction\Interface\fsl_os_abstraction_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\OSAbstraction\Interface\fsl_os_abstraction_free_rtos.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Interface\TimersManager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TMR_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\dbg_ram_capture.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Reset\Reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p32_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\RNG\Source\RNG.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SecLib\SecLib.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Source\UART_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Source\NV_Flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Flash\Internal\Flash_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_smc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\GPIO\GPIO_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Flash\Internal\Flash_Adapter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Lists\GenericList.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_tpm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_trng.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Lists\GenericList.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\GPIO\GPIO_Adapter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MemManager\Interface\MemManager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Messaging\Interface\Messaging.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Messaging\Source\Messaging.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Keyboard\Interface\Keyboard.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\LED\Interface\LED.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Keyboard\Source\Keyboard.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_trng.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\DCDC\Interface\DCDC.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\DCDC\Source\DCDC.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\ModuleInfo\ModuleInfo.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MWSCoexistence\Interface\MWS.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MWSCoexistence\Source\MWS.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_tpm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\ModuleInfo\ModuleInfo.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Source\NV_Flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MemManager\Source\MemManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Common\EmbeddedTypes.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\FunctionLib\FunctionLib.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\FunctionLib\FunctionLib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\LED\Source\LED.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Interface\NVM_Interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\port.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\MemMang\heap_4.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_zgbe_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr_trim.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\event_groups.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\FreeRTOS.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\fsl_tickless_systick.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\mpu_wrappers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\queue.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\queue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\semphr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_1p0_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_mode_datarate_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\ifr_radio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\fsl_tickless_generic.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\croutine.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\projdefs.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\portmacro.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\portable.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p7_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\portasm.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\ifr_radio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p7_h_0p5_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_msk_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr_trim.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\croutine.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\deprecated_definitions.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\freertos_tasks_c_additions.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\event_groups.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ApplMain.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\task.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\tasks.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_host_tasks.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_init.h</file>
+            <file>$PROJ_DIR$\..\app_preinclude.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ApplMain.c</file>
+            <file>$PROJ_DIR$\..\FreeRTOSConfig.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_db_macros.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\gatt_db_handles.h</file>
+            <file>$PROJ_DIR$\..\..\gatt_db.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_decl_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_enum_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\timers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_uuid_decl_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_conn_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_conn_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_controller_task.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_init_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_size_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_uuid_def_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_controller_task_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_host_task_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\gatt_database.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_init.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\timers.c</file>
+            <file>$PROJ_DIR$\..\..\app_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\include\StackMacros.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_alloc_x.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\macros\gatt_db_x_macros.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\utilities\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\debug\obj\LED.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Panic.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\controller\lib\lib_ble_kw41z_controller.a</file>
+            <file>$PROJ_DIR$\debug\obj\UART_Adapter.pbi</file>
+            <file>$PROJ_DIR$\..\..\hid_service.c</file>
+            <file>$PROJ_DIR$\debug\obj\NV_Flash.o</file>
+            <file>$PROJ_DIR$\debug\obj\NV_Flash.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_mode_datarate_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\TimersManager.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\proximity_reporter.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_1p0_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\MemManager.o</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\debug\obj\SerialManager.pbi</file>
+            <file>$PROJ_DIR$\MKW41Z512xxx4_connectivity.icf</file>
+            <file>$PROJ_DIR$\debug\obj\GenericList.o</file>
+            <file>$PROJ_DIR$\debug\obj\DCDC.o</file>
+            <file>$PROJ_DIR$\..\..\proximity_reporter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\iar\startup_MKW41Z4.s</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p7_config.pbi</file>
+            <file>$PROJ_DIR$\..\..\gatt_uuid128.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\system_MKW41Z4.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\utilities\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\system_MKW41Z4.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\debug\obj\SecLib.pbi</file>
+            <file>$PROJ_DIR$\..\..\hid_interface.h</file>
+            <file>$PROJ_DIR$\debug\obj\Messaging.pbi</file>
+            <file>$PROJ_DIR$\debug\list\proximity_reporter_freertos.map</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_lptmr.o</file>
+            <file>$PROJ_DIR$\debug\obj\device_info_service.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_lpuart.o</file>
+            <file>$PROJ_DIR$\debug\obj\UART_Adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p5_h_0p5_config.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\event_groups.o</file>
+            <file>$PROJ_DIR$\debug\obj\GPIO_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ble_init.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_gfsk_bt_0p7_h_0p5_config.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_clock.o</file>
+            <file>$PROJ_DIR$\debug\obj\app_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_common_config.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\debug\obj\Reset.o</file>
+            <file>$PROJ_DIR$\debug\obj\dbg_ram_capture.o</file>
+            <file>$PROJ_DIR$\debug\obj\hcit_serial_interface.o</file>
+            <file>$PROJ_DIR$\debug\obj\Keyboard.o</file>
+            <file>$PROJ_DIR$\debug\obj\system_MKW41Z4.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_os_abstraction_free_rtos.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_ltc.o</file>
+            <file>$PROJ_DIR$\debug\obj\FunctionLib.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SecLib\lib_crypto_m0.a</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr_trim.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\lib\lib_ble_4-2_host_peripheral_cm0p.a</file>
+            <file>$PROJ_DIR$\debug\obj\Messaging.o</file>
+            <file>$PROJ_DIR$\debug\obj\TMR_Adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_xcvr.o</file>
+            <file>$PROJ_DIR$\debug\obj\SerialManager.o</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\host\config\ble_globals.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 284 144 287 4 141 5 13 2 289 0 149 1 179 235 188 40 17 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 1 2 179 284</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\hci_transport\source\hcit_serial_interface.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 403</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 287 198 4 271 17 141 9 40 289 0 233 5 266 144 149 13 235 188 251 180</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 271 287 141 144 40 17 149 13 266 5 289 235 251 4 188 0 9 180 198 233</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 68 386</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\debug\proximity_reporter_freertos.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 386</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 16</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 371 398 67 103 43 62 105 169 394 78 156 57 402 373 388 392 58 102 397 86 376 98 59 85 95 99 387 389 407 406 46 49 135 122 70 131 414 53 125 96 44 120 36 56 48 69 88 55 410 136 408 107 372 63 155 403 101 75 52 61 404 66 87 106 368 412 65 51 359 18 121 76 54 170 126 117 401 47 60 415 143 405 118 50 45 413 97 390 411 356 409 361 400 369 73</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\hid\hid_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81 289 149 287 187 5 0 1 189 141 4 194 174 235 188 144 13 179 190 40 17 251 183 3</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 81</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\link_loss_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187 185 183 5 235 17 189 287 188 40 251 3 194 174 141 289 4 0 144 1 179 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 185</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\device_info\device_info_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 388</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 195 188 5 287 189 235 40 1 179 194 174 141 289 4 0 17 251 183 187 3 144 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 195</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\board.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 129</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 263 40 12 246 25 38 287 221 278 159 72 220 218 203 182 274 141 144 17 64 80 164 215 353 219 181 270 265 289 149 13 150 379 29 137 140 22 28 212 216</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 38 150 25 29 159 137 80 379 64 220 72 140 22 12 164 28 215 263 353 218 219 221 181 216 203 270 246 265 212 182 278 289 274</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\immediate_alert_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187 177 183 5 235 17 189 287 188 40 251 3 194 174 141 289 4 0 144 1 179 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 177</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 156</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144 141 164 13 263 38 182 72 149 40 12 150 379 29 214 220 140 22 28 215 17 64 25 159 137 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 263 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215 214 182</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\proximity\tx_power_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 112</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187 173 141 183 5 4 144 189 289 0 251 3 194 174 287 235 188 40 17 1 179 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 173</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\gpio_pins.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 155</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 379 159 137 270 149 150 287 141 144 13 193 38 40 17 64 25 29 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 270 287 141 144 40 17 149 13 38 150 25 29 159 137 80 379 64 193</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\profiles\battery\battery_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 111</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187 175 287 183 5 188 40 189 235 17 251 3 194 174 141 289 4 0 144 1 179 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 175</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_smc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 154</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25 144 263 72 40 141 38 17 159 212 220 140 22 28 215 149 13 12 64 80 164 150 379 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 263 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215 212</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 161</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 40 140 215 379 212 28 149 12 150 22 144 13 164 159 137 220 72 141 38 17 64 25 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 212 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 141 144 164 220 38 80 203 72 149 40 12 150 379 219 140 22 28 215 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215 219 203</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 379 140 220 215 40 29 207 28 149 12 150 22 144 13 164 159 137 72 141 38 17 64 25 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 207 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lptmr.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 387</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 149 150 141 72 12 40 217 379 38 144 13 164 80 220 140 22 28 215 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 217 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_ltc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 407</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 40 144 211 72 25 141 38 17 12 64 220 140 22 28 215 149 13 164 150 379 159 137 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 211 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 164 144 13 214 220 38 72 149 40 12 150 379 80 140 22 28 215 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 214 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 158</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 397</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 215 141 17 80 38 12 64 72 40 144 25 159 220 140 22 28 149 13 164 150 379 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 215 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 141 144 164 220 38 72 149 40 12 150 379 29 353 140 22 28 215 17 64 25 159 137 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215 353</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_lpuart.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 165</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 389</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144 220 22 210 13 164 159 137 140 28 215 149 40 12 150 379 29 72 141 38 17 64 25 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 210 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 144 72 25 40 216 141 38 17 12 64 220 140 22 28 215 149 13 164 150 379 159 137 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 216 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_llwu.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 141 144 164 205 38 72 149 40 12 150 379 80 220 140 22 28 215 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 205 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_adc16.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 149 150 141 72 12 40 221 379 38 144 13 164 80 220 140 22 28 215 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 221 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_pmc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 151</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40 144 141 218 22 25 220 140 28 215 17 12 64 80 72 38 149 13 164 150 379 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 218 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_dspi.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 164 144 13 40 204 22 220 140 28 215 149 12 150 379 29 72 141 38 17 64 25 80 159 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 204 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Panic\Source\Panic.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 355</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 144 149 231 235 287 40 13 17 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 231 287 141 144 40 17 149 13 235 251</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 162</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 414</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 396 150 144 141 220 38 379 29 240 164 318 307 64 25 80 40 17 159 72 12 149 13 137 140 22 28 215 364</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 220 72 140 22 12 164 28 215 240 318 396 364 307</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TimersManager.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 363</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 239 38 40 150 287 215 253 164 235 182 13 379 29 220 141 144 251 230 231 203 149 159 137 216 72 12 17 181 64 25 80 140 22 28</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 230 253 231 239 38 150 25 29 159 137 80 379 64 181 216 220 72 140 22 12 164 28 215 235 251 203 182</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Source\NV_FsciCommands.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 289 141 144 287 149 271 272 291 40 17 266</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 272 266 271 289 291</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_ant_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144 240 64 38 25 29 13 40 318 150 379 149 159 137 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_common_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 399</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 150 144 240 318 379 29 13 40 149 159 137 38 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_ble_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 144 240 38 25 29 13 40 318 150 379 149 159 137 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p3_h_0p5_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 168</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 150 144 240 318 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p5_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 391</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 318 150 144 240 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Source\SerialManager.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 370</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 415</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 289 40 12 233 235 287 266 379 29 251 271 193 203 234 13 150 72 231 272 270 38 220 22 149 159 137 141 144 164 17 64 25 80 140 28 215</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 233 287 141 144 40 17 149 13 231 271 266 272 289 270 38 150 25 29 159 137 80 379 64 193 235 251 220 72 140 22 12 164 28 215 203 234</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\OSAbstraction\Source\fsl_os_abstraction_free_rtos.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 406</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 304 266 251 64 287 72 141 40 311 80 252 231 144 17 310 300 297 38 25 159 235 22 220 149 13 298 322 28 330 312 12 320 302 336 324 164 140 215 150 379 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 235 251 252 298 28 12 330 310 312 320 311 300 304 302 322 336 324 297 22 164 266 220 72 140 38 150 25 29 159 137 80 379 64 215 231</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\TimersManager\Source\TMR_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 413</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 181 80 40 149 150 144 239 22 235 267 287 13 141 38 220 17 64 25 159 140 28 215 12 379 29 137 216 72 164 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 239 287 141 144 40 17 149 13 38 150 25 29 159 137 80 379 64 181 216 220 72 140 22 12 164 28 215 235 251 267</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\dbg_ram_capture.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 402</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38 12 149 159 137 72 241 150 379 240 64 25 141 80 40 13 318 144 29 17 220 140 22 28 215 164</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 240 318 241 220 72 140 22 12 164 28 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Reset\Reset.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 401</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 150 38 379 141 40 64 25 17 159 29 144 149 13 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p32_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 160</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 318 150 144 240 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\RNG\Source\RNG.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 166</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 235 141 40 246 144 17 64 38 237 287 80 289 220 268 149 13 25 159 251 72 12 150 379 29 137 140 22 28 215 164</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 246 287 141 144 40 17 149 13 289 237 38 150 25 29 159 137 80 379 64 235 251 220 72 140 22 12 164 28 215 268</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SecLib\SecLib.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 383</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 235 287 40 271 211 266 25 72 237 141 144 17 64 80 12 289 38 231 149 13 150 379 29 159 137 164 220 251 140 22 28 215</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 271 287 141 144 40 17 149 13 266 289 237 38 150 25 29 159 137 80 379 64 235 251 231 211 220 72 140 22 12 164 28 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\SerialManager\Source\UART_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 357</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 390</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 234 25 38 144 215 181 64 149 159 137 22 40 216 220 235 203 210 150 379 141 80 13 140 28 12 287 29 17 72 164 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 220 72 140 22 12 164 28 215 235 287 251 234 203 181 216 210</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\NVM\Source\NV_Flash.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 360</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 359</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 289 287 144 159 40 22 13 25 253 265 149 140 28 215 12 64 141 80 285 246 235 272 17 291 251 212 220 72 38 164 150 379 29 137 266 271</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 285 291 253 246 289 235 251 265 212 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 272 266 271</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Flash\Internal\Flash_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 115</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140 215 265 80 287 235 40 28 12 64 141 289 231 212 144 17 22 25 159 149 13 220 72 38 164 150 379 29 137 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 265 287 141 144 40 17 149 13 212 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 289 235 251 231</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\GPIO\GPIO_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 393</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 193 216 220 141 17 80 235 38 12 64 219 270 289 72 40 144 25 159 287 140 22 28 215 149 13 164 150 379 29 137 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 216 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215 219 235 287 251 270 193 289</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Lists\GenericList.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 372</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 287 149 266 235 141 144 13 40 17 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 266 287 141 144 40 17 149 13 235 251</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Messaging\Source\Messaging.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 385</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 412</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 287 141 144 13 271 272 149 251 235 40 17 266</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 271 266 272 235 251</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\Keyboard\Source\Keyboard.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 153</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 404</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 181 270 287 144 251 235 141 17 159 137 22 40 253 193 203 274 150 379 29 140 28 215 12 149 13 38 64 25 80 216 220 72 164</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 253 270 38 150 25 29 159 137 80 379 64 193 181 216 220 72 140 22 12 164 28 215 203 235 251 274</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_trng.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 145</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 131</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 40 140 215 379 268 28 149 12 150 220 22 144 13 164 159 137 72 141 38 17 64 25 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 268 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\DCDC\Source\DCDC.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 167</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 373</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 235 141 150 144 17 12 40 287 72 379 29 221 38 164 159 137 220 278 253 181 149 13 140 22 28 215 64 25 80 251 216</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 278 221 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 253 235 251 181 216</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\ModuleInfo\ModuleInfo.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 284 287 40 17 144 149 13</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 284 287 141 144 40 17 149 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MWSCoexistence\Source\MWS.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 146</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 379 144 141 287 281 13 150 80 270 149 235 40 17 251 38 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 281 287 141 144 40 17 149 13 235 251 270 38 150 25 29 159 137 80 379 64</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\drivers\fsl_tpm.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29 38 379 40 267 141 17 72 144 12 150 220 140 22 28 215 149 13 164 159 137 64 25 80</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 267 220 72 144 40 17 149 13 140 141 22 12 164 28 38 150 25 29 159 137 80 379 64 215</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\MemManager\Source\MemManager.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 148</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 368</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 289 287 231 141 144 149 235 271 40 17 13 266 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 235 251 231 271 266 289</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\FunctionLib\FunctionLib.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 128</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 408</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 289 17 40 287 141 144 149 13</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 289 287 141 144 40 17 149 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\LED\Source\LED.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 354</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 220 203 144 275 239 38 270 181 149 164 159 137 287 253 193 235 40 13 216 72 12 150 379 29 17 140 22 28 215 64 25 80 251</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 275 287 141 144 40 17 149 13 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 253 270 193 203 235 251 239</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\port.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 116</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 144 40 382 320 324 297 298 137 310 12 308 17 149 13 28 330 312 311 300</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 382 137 40 17 149 13 298 28 144 12 141 330 310 312 320 311 300 324 297 308</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\MemMang\heap_4.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 300 149 310 12 71 365 40 298 13 144 141 311 297 324 17 28 330 312 320</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 298 28 141 330 310 312 320 311 300 324 297</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_zgbe_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 130</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 318 379 144 240 150 29 13 40 38 64 25 149 159 137 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\fsl_xcvr_trim.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 410</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 241 12 38 25 149 159 137 28 240 64 141 80 40 13 140 215 364 220 318 396 150 379 29 144 17 22 72 164</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 220 72 140 22 12 164 28 215 240 318 241 396 364</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\event_groups.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 392</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 336 297 13 71 40 144 141 298 365 149 310 12 320 324 322 17 28 330 312 311 300</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 298 28 141 330 310 312 320 311 300 324 297 336 322</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\fsl_tickless_systick.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 144 40 382 320 324 297 298 137 310 12 308 17 149 13 28 330 312 311 300</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 382 137 40 17 149 13 298 28 144 12 141 330 310 312 320 311 300 324 297 308</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\queue.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 324 40 71 164 144 310 12 300 22 298 302 17 141 311 365 149 13 28 330 312 320 297</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 22 164 298 28 141 330 310 312 320 311 300 324 297 302</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\list.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144 71 17 297 12 40 330 298 28 312 320 365 149 13 141 310 311 300</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 298 28 141 330 310 312 320 311 300 297</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_1p0_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 367</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 150 144 240 318 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_mode_datarate_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 362</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64 144 240 38 25 29 13 40 318 150 379 149 159 137 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\croutine.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 127</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 149 298 311 310 324 28 330 312 40 13 144 300 319 12 17 320 297</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 298 28 144 40 17 149 13 12 141 330 310 312 320 311 300 324 297 319</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p5_h_0p7_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 377</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 318 150 144 240 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\portable\IAR\ARM_CM0\portasm.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 170</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 330</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\ifr_radio.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141 240 38 25 307 64 17 159 235 150 379 80 40 251 29 144 149 13 137 318 287</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 240 318 307 235 287 251</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_gfsk_bt_0p7_h_0p5_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 395</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 318 150 144 240 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\framework_5.3.4\XCVR\MKW41Z4\cfgs_kw4x_3x_2x\fsl_xcvr_msk_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 157</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 150 144 240 318 379 29 13 40 38 149 159 137 64 25 141 80 17</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 240 38 150 25 141 144 40 17 149 13 29 159 137 80 379 64 318</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\tasks.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17 324 141 144 311 71 350 12 40 22 298 336 164 310 300 365 149 13 28 330 312 320 297 321</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 22 164 298 28 141 330 310 312 320 311 300 324 297 336 350 321</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_host_tasks.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 231 287 272 345 271 149 251 188 8 235 266 141 144 13 40 17 5 289 4 0</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 272 287 141 144 40 17 149 13 266 271 8 235 251 5 289 4 188 0 345 231</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ApplMain.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 133</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 149 253 5 323 38 29 189 164 40 275 237 2 220 141 144 287 190 235 272 181 174 13 216 72 12 150 379 266 4 183 274 271 246 265 231 196 327 197 330 17 140 22 28 215 64 25 159 137 179 289 0 1 80 251 212 187 188 3 172</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 275 287 141 144 40 17 149 13 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 274 235 251 271 266 253 246 272 265 212 237 231 183 5 289 4 188 0 187 1 3 190 179 189 196 174 327 2 197 172 330 323</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_conn_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 1 40 339 141 144 17 251 22 231 237 235 5 25 179 181 287 188 187 3 140 28 215 12 64 80 174 2 271 149 13 289 4 0 190 216 220 72 38 164 150 379 159 29 137 266</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 231 287 141 144 40 17 149 13 5 289 235 251 4 188 0 179 174 187 1 3 190 339 2 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 271 266 237</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_controller_task.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 188 266 344 287 144 237 159 137 235 6 141 17 150 379 29 40 22 220 272 38 231 265 181 149 13 271 251 64 25 80 5 289 4 0 140 28 215 12 212 72 164 216</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 287 141 144 40 17 149 13 272 266 271 235 251 38 150 25 29 159 137 80 379 64 344 231 6 5 289 4 188 0 265 212 220 72 140 22 12 164 28 215 237 181 216</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\gatt_db\gatt_database.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 287 181 149 334 144 25 332 235 1 22 40 141 187 331 343 5 188 13 190 220 140 28 215 12 64 80 179 352 351 342 341 289 4 0 17 251 3 216 72 38 164 150 379 29 159 137 337 335 378 333</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 190 5 141 144 40 17 149 13 287 289 235 251 4 188 0 187 1 3 179 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 331 352 332 337 378 335 333 343 351 334 342 341</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\middleware\wireless\bluetooth_1.2.4\application\common\ble_init.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 394</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144 9 25 233 0 220 327 240 5 289 198 287 22 40 235 38 345 141 4 17 251 140 28 215 12 64 159 137 344 181 6 265 188 149 13 180 216 72 164 150 379 29 80 318 212</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 327 5 141 144 40 17 149 13 287 289 235 251 4 188 0 345 344 9 180 198 233 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 6 240 318 265 212</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\rtos\freertos_9.0.0\Source\timers.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 302 13 144 71 298 365 141 40 297 324 336 149 310 320 12 17 28 330 312 311 300</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 298 28 141 330 310 312 320 311 300 324 297 302 336</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\app_config.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 110</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 398</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 187 235 1 337 174 5 332 287 188 149 4 179 141 289 0 144 13 3 331 40 17 251 190 352 335 378 333</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 174 5 141 144 40 17 149 13 287 289 235 251 4 188 0 179 187 1 3 190 332 331 352 337 378 335 333</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\hid_service.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17 384 141 5 4 144 183 187 189 289 0 251 3 194 174 287 235 188 40 1 179 149 13 190</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 5 141 144 40 17 149 13 287 289 235 251 4 188 0 194 189 183 187 1 3 190 179 174 384</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\proximity_reporter.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 289 40 22 352 185 144 246 174 339 149 25 190 275 189 175 177 323 13 181 140 28 215 12 64 141 80 220 287 179 0 5 183 187 274 253 231 196 332 195 173 384 366 17 216 72 38 164 150 379 29 159 137 4 1 197 235 188 251 3 331 337 335 378 333 172</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 142 246 287 141 144 40 17 149 13 274 275 181 216 220 72 140 22 12 164 28 38 150 25 29 159 137 80 379 64 215 253 289 231 189 183 5 235 251 4 188 0 187 1 3 190 179 196 174 332 331 352 337 378 335 333 175 195 185 173 177 384 339 323 197 172 366</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\iar\startup_MKW41Z4.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 143</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\utilities\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 376</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40 144 140 215 164 30 13 220 28 396 210 149 12 22 150 379 29 159 71 353 17 365 364 72 141 38 64 25 80 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 71 144 40 17 149 13 12 365 396 364 353 220 72 140 141 22 164 28 38 150 25 29 159 137 80 379 64 215 210</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\devices\MKW41Z4\system_MKW41Z4.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 405</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13 141 144 80 149 150 379 38 40 17 64 25 159 29 137</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328 141 144 40 17 149 13 38 150 25 29 159 137 80 379 64</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
