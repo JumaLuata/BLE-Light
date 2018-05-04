@@ -8,7 +8,7 @@ The application is based on BLE case named  *proximity_reporter* . So please put
 ----
 *   The mobile phone app I chosed for Bluetooth debugging is named *Bluetooth assistant* .
 
-*   Download the out file to FRDM-KW41Z board and press the SW4 botton.Open *Bluetooth assistant* app you will found FSL_BLE_Light.
+*   Download the out file to FRDM-KW41Z board and press the SW4 button.Open *Bluetooth assistant* app you will found FSL_BLE_Light.
 
     ![Alt text](http://p6wf2jj0b.bkt.clouddn.com/found.png)
 
